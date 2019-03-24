@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+Implementation-Title: SpringProject
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: JP
+Implementation-Vendor-Id: org.akash
 Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringProject
 Created-By: Maven Integration for Eclipse
 
